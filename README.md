@@ -8,6 +8,7 @@ Se o colaborador responder com o status amarela ou vermelha, o gestor será noti
 
 ## Layout Menu
 ![Web 1](menu.PNG)
+![Web 2](registro.PNG)
 
 # Tecnologias utilizadas
 
