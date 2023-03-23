@@ -7,7 +7,7 @@ O Emociograma é uma aplicação simples que o intuito de evitar acidente de tra
 Se o colaborador responder com o status amarela ou vermelha, o gestor será notificado e entrará em contato com o funcionário. Evitando executar tarefas de riscos naquele dia.
 
 ## Layout Menu
-![Web 1](https://github.com/paulomisael27/Emociograma/settings)
+![Web 1](menu.PNG)
 
 # Tecnologias utilizadas
 
