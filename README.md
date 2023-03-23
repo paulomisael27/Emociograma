@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O Emociograma é uma aplicação simples que o intuito de evitar acidente de trabalho, porém pode ser usado para vários nichos. Exemplo, o colaborador deverá indicar o status de humor dele no dia.
+O Emociograma é uma aplicação simples com o intuito de evitar acidentes de trabalho, porém pode ser usado para vários nichos. Exemplo, o colaborador deverá indicar o status de humor dele no dia.
 Se o colaborador responder com o status amarela ou vermelha, o gestor será notificado e entrará em contato com o funcionário. Evitando executar tarefas de riscos naquele dia.
 
 ## Layout Menu
@@ -19,6 +19,7 @@ C#
 
 ## Implantação em produção
 - Banco de dados: SQLlite
+- Excel para gerar relatório
 
 # Como executar o projeto
 
